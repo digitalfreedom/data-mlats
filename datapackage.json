@@ -1,7 +1,7 @@
 {
   "name": "data-mlats",
-  "title": "",
-  "homepage": "",
+  "title": "Mutual Legal Assistance Treaties",
+  "homepage": "https://mlat.info",
   "version": "0.1.0",
   "license": "PDDL-1.0",
   "resources": [
@@ -32,5 +32,6 @@
       }
     }
   ],
-  "description": ""
+  "description": "MLATs are agreements between governments that facilitate the exchange of information relevant to an investigation happening in at least one of those countries",
+  "repository": "https://github.com/digitalfreedom/data-mlats.git"
 }
